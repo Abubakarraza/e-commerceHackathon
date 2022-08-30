@@ -1,0 +1,8 @@
+.checkout-steps > div {
+  border-bottom: 0.2rem solid grey;
+  color: gray;
+}
+.checkout-steps > div.active {
+  border-bottom: 0.2rem solid goldenrod;
+  color: goldenrod;
+}
